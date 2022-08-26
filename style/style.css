@@ -1,6 +1,10 @@
 body{
     background: linear-gradient(180deg, #92DDC2 0%, #544E94 100%);
 }
+.frm{
+    display: flex;
+    justify-content: center;
+}
 form {
     margin: 326px 730px 365px 729px;
     width: 375px;
